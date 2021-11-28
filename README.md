@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EverettR
+- 👀 I’m interested in Data Science, Visiualization, and Web Development
+- 🌱 I’m currently learning Node JS and React
+- 📫 How to reach me rebstock.everett@gmail.com
